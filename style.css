@@ -1,0 +1,46 @@
+body{
+    background-size : cover;
+}
+
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
+
+.ccossd{
+    font-size: 20px;
+    color: black;
+    width: 100%;
+}
+
+#h2{
+    font-size: 15px;
+}
+
+start,#detected_objects,#status{
+    font-size: 19px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: aliceblue;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130pc;
+    box-shadow: 5px 5px 5px white;
+
+}
+
+#input{
+    box-shadow: 5px 5px 5px blue;
+    width: 25%;
+}
